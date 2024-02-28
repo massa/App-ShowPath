@@ -1,0 +1,27 @@
+{
+  "auth": "zef:massa",
+  "authors": [
+    "Humberto Massa"
+  ],
+  "build-depends": [
+  ],
+  "depends": [
+    "Term::TablePrint"
+  ],
+  "description": "show the contents of the environment variable $PATH, in a browseable table form",
+  "license": "Artistic-2.0",
+  "name": "App::ShowPath",
+  "perl": "6.d",
+  "provides": {
+    "App::ShowPath": "lib/App/ShowPath.rakumod"
+  },
+  "resources": [
+  ],
+  "source-url": "https://github.com/massa/App-ShowPath.git",
+  "tags": [
+  ],
+  "test-depends": [
+    "Test::META"
+  ],
+  "version": "0.0.1"
+}
