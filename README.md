@@ -1,4 +1,4 @@
-[![Actions Status](https://github.com/massa/App-ShowPath/actions/workflows/linux.yml/badge.svg)](https://github.com/massa/App-ShowPath/actions) [![Actions Status](https://github.com/massa/App-ShowPath/actions/workflows/macos.yml/badge.svg)](https://github.com/massa/App-ShowPath/actions) [![Actions Status](https://github.com/massa/App-ShowPath/actions/workflows/windows.yml/badge.svg)](https://github.com/massa/App-ShowPath/actions)
+[![Actions Status](https://github.com/massa/App-ShowPath/actions/workflows/linux.yml/badge.svg)](https://github.com/massa/App-ShowPath/actions) [![Actions Status](https://github.com/massa/App-ShowPath/actions/workflows/macos.yml/badge.svg)](https://github.com/massa/App-ShowPath/actions)
 
 NAME
 ====

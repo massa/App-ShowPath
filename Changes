@@ -1,6 +1,8 @@
 Revision history for App-ShowPath
 
 {{$NEXT}}
+
+0.0.2  2024-07-05T08:30:32-03:00
     - Corrections for Github CI
 
 0.0.1  2024-02-28T09:49:41-03:00
