@@ -1,6 +1,7 @@
 Revision history for App-ShowPath
 
 {{$NEXT}}
+    - Corrections for Github CI
 
 0.0.1  2024-02-28T09:49:41-03:00
     - Initial version, works like the original showpath script
